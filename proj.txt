@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+<title>Swimming</title>
+<link rel="stylesheet" href="x.css">
+</head>
+<body>
+<img src="head.jpg">
+<h1>My favourite hobby is swimming</h1> 
+<p>
+Liverpool Football Club is a professional football club based in Liverpool, England, that competes in the Premier League, the top tier of English football. Domestically, the club has won nineteen League titles, seven FA Cups, a record nine League Cups and fifteen FA Community Shields. In international competitions, the club has won six European Cups, more than any other English club, three UEFA Cups, four UEFA Super Cups, and one FIFA Club World Cup. In terms of trophies won, it is the joint-most successful club in English football.
+Founded in 1892, the club joined the Football League the following year and has played at Anfield since its formation. Liverpool established itself as a major force in English and European football in the 1970s and 1980s, when Bill Shankly, Bob Paisley, Joe Fagan and Kenny Dalglish led the club to a combined eleven League titles and four European Cups. Liverpool won two further European Cups in 2005 and 2019 under the management of Rafael Benítez and Jürgen Klopp, respectively; the latter led Liverpool to a nineteenth League title in 2020, the club's first during the Premier League era.
+
+<h2>Ian Rush</h2>
+<img src="ph1.jpg" height="350px" width="350px">
+<p>
+Ian James Rush MBE (born 20 October 1961) is a Welsh former professional footballer who played as a forward. At club level Rush played for Liverpool from 1980–1987 and 1988–1996. He is the club's all-time leading goalscorer, having scored a total of 346 goals in all competitions at the club. At international level, Rush made 73 appearances for the Wales national football team and remained the record goalscorer for his country until 2018, with 28 goals between 1980 and 1996.
+</p>
+
+<h2>Mohamed Salah</h2>
+<img src="ph2.jpg" height="350px" width="350px">
+<p>
+Mohamed Salah Hamed Mahrous Ghalyis an Egyptian professional footballer who plays as a forward for Premier League club Liverpool and captains the Egypt national team. Considered one of the best players in the world,[6][7] he is known for his finishing, dribbling, and speed.
+</p>
+
+
+
+</body>
+</html>
